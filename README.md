@@ -1,3 +1,11 @@
+# Content
+- JavaScript notes
+- whoIsPaying
+- fizzBuzzV1.0
+- fizzBuzzV2.0 (while loop)
+- fizzBuzzV3.0 (for loop)
+
+
 # JavaScript notes
 
 keywords (reserved words with set purpose like a command)
@@ -67,11 +75,11 @@ e.g. alert, prompt, var
   - remove last item from the list
 
 ## While Loop
-- runs while condition is true
+- runs while a condition is true
 - while(condition){}
 - i++ as incremental
 - don't use i=i++. output is either 0 or infinite loop.
 
 ## For Loop
-- setting start condition, end condition and rate of change
+- setting start condition, end condition and rate of change. i.e. iterating and setting amount of times to run
 - for(start;end;change){}
