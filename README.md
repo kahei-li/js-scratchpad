@@ -83,3 +83,5 @@ e.g. alert, prompt, var
 ## For Loop
 - setting start condition, end condition and rate of change. i.e. iterating and setting amount of times to run
 - for(start;end;change){}
+
+## Separation of conerns
